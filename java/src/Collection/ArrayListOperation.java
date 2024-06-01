@@ -195,6 +195,7 @@ public class ArrayListOperation {
 			
 			default:
 				System.out.println("Exit_ Thanks");
+				System.out.println("Bye");
 				}
 		}
 		while(ch<11);
